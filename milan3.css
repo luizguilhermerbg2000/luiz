@@ -1,0 +1,27 @@
+body {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  font-family: 
+
+}
+
+
+
+.barra-lateral {
+  padding: 0px;
+  text-align: center;
+  background: red;
+  color: white;
+}
+
+.barra-esquerda {
+  background: red;
+  height: 140px;
+  width: 300px;
+  margin: 0px;
+  text-orientation: 10px;
+  text-align: center;
+}
+
+

@@ -1,0 +1,124 @@
+body {
+	background:#ece8e8;
+}
+
+.menu {
+	background: red;
+	height: 70px;
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	padding: 0;
+}
+
+.cover { 
+	background-color: black;
+	background-size: ;
+	background-image: url("pioli.png"); 
+	background-repeat: no-repeat;
+	
+	width: 1200px;
+	height: 580px;
+	top: 10px;
+	left: 9px;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	padding-left: 30px;
+	padding-top: 400px;
+
+}
+  .cover h1{
+ 	font-size: 30px;
+ 	font-weight: normal;
+ 	padding-left: 1px;
+ 	padding-top: -3px;
+
+ }
+
+ .cover h2 {
+ 	font-size: 15px;
+
+ }
+
+
+.bloco {
+	background: #E6E6E6;
+	width: 1200px;
+	height: 580px;
+	top: 10px;
+	left: 9px;
+	margin-left: 200px;
+}
+
+.feed {
+	margin-left: 200px;
+	top: 5px;
+
+}
+
+.logo {
+
+	height: 130px;
+}
+
+.bloco4 {
+	background: red;
+
+}
+
+
+.bloco-a {
+
+background: blue;
+width: 1200px;
+height: 300px;
+top: -11px;
+left: 10px;
+margin-left: 214px;
+}
+
+
+
+.bloco-b {
+background: red;
+height: 200px;
+margin-left: 239px;
+top: 7px;
+}
+
+.bloco-c {
+background: red;
+height: 200px;
+margin-left: 254px;
+top: 25px;
+}
+
+.bloco-d {
+background: red;
+width: 900px;
+height: 200px;
+margin-left: 269px;
+top: 45px;
+}
+
+.Tabela {
+	background: red;
+	width: 500px;
+	height: 250px;
+	position: right;
+}
+
+.row {
+
+	width: 1650px;
+	height: 250px;
+
+}
+.tabelinha {
+	width: 500px;
+	height: 250px;
+	position: center;
+
+}
+

@@ -1,0 +1,29 @@
+body {
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+	font-family: 
+
+}
+
+
+.bloco {
+	background: blue;
+	height: 140px;
+	width: 307px;
+	margin: 2px;
+	text-align: center;
+	
+}
+
+.bloco-maior {
+	font-size: 90px;
+
+}
+
+.header {
+  padding: 0px;
+  text-align: center;
+  background: red;
+  color: white;
+}
